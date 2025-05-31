@@ -1,0 +1,2 @@
+1. Given a list a list, sort its elements, and print the biggest element.
+numbers = [1, 13, 0, 10, 5]

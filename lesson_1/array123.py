@@ -7,7 +7,7 @@
     # output FOUND
     
 
-# strings = ["a", "b", "c"]
+strings = ["a", "b", "c"]
 # alternated = [1, 2, "a", "b", [1, 2, 3]]
 
 
@@ -22,5 +22,5 @@ if __name__ == "__main__":
     for i in range(len(numbers) - 3):
         if numbers[i] == 1 and numbers[i+1] == 2 and numbers[i+2] == 3:
             found = True
-            
+    
     print(found)
