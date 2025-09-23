@@ -8,4 +8,5 @@ with open(file_path, "r") as file:
     print(lines)
     for line_number, line in enumerate(lines):
         print(line_number, line.count("a"))
+        print("Hurrraaay!!")
     
