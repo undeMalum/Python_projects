@@ -1,0 +1,15 @@
+Read pairs of numbers from a file and print the result of their addition.
+
+Input:
+2 3
+4 3
+0 9
+4 8
+1 6
+
+Output:
+5
+7
+9
+12
+7
