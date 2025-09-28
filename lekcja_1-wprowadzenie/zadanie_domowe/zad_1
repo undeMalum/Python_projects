@@ -1,0 +1,3 @@
+Napisz program, który po wczytaniu liczby całkowitej określającej temperaturę powietrza,
+określi czy jest ciepło, zimno czy gorąco. Zimno jest wtedy, gdy temperatura spadnie poniżej 17 stopni,
+ciepło jest w przedziale od 17 do 26 stopni, a gorąco jest powyżej 26 stopni.
