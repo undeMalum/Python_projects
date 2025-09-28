@@ -3,3 +3,7 @@
 # a, b = wiersz.split()
 
 a, b = input().split()
+
+# wyjaśnienie
+nawiasy = ()
+print(type(nawiasy))
