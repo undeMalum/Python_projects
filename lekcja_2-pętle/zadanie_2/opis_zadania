@@ -1,0 +1,15 @@
+Napisz program, który będzie wczytywał liczby całkowite do momentu wczytania liczby dwa poraz trzeci.
+
+Wejście
+Pewna ilość liczb całkowitych podanych w oddzielnych wierszach.
+
+Wyjście
+Komunikat: "Liczba dwa wystąpiła trzy razy".
+
+Przykład
+Wejście/wyjście
+2
+3
+2
+2
+Liczba dwa wystąpiła trzy razy

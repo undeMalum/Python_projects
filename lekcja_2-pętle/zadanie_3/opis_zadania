@@ -1,0 +1,11 @@
+Napisz program, który wczyta dwie liczby a i b, a następnie wypisze wszystkie liczby
+z przedziału [a, b] w następującym porządku:
+
+a, b, a+1, b-1, a+2, b-2, ...
+
+Wejście
+Dwie liczby całkowite a i b takie, że a ≤ b.
+
+Wyjście
+Ciąg liczb w pojedynczym wierszu wypisany według schematu:
+a, b, a+1, b-1, a+2, b-2, ...

@@ -1,0 +1,16 @@
+Napisz program, wczyta n liczb i obliczy ich sumę.
+
+Wejście
+W pierwszym wierszu jedna liczba naturalna n określająca ilość liczb do zsumowania.
+W kolejnych n wierszach po jednej liczbie całkowitej.
+
+Wyjście
+Suma wczytanych liczb wraz z opisem wykonywanych działań.
+
+Przykład
+Wejście/wyjście
+Podaj ile liczb będziesz wprowadzał: 3
+Podaj liczbę: 1
+Podaj liczbę: 2
+Podaj liczbę: 3
+Suma podanych na wejściu liczb wynosi: 6

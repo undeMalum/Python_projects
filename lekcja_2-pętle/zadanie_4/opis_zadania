@@ -1,0 +1,16 @@
+Napisz program, wczyta liczbę wierszy oraz liczbę kolumn i na podstawie tych wartości wygeneruje na ekranie prostokąt złożony z gwiazdek.
+
+Wejście
+W pierwszym wierszu dwie liczby naturalne n i m określające liczbę wierszy i liczbę kolumn prostokąta.
+
+Wyjście
+Prostokąt zbudowany ze znaku '*' według specyfikacji podanej na wejściu.
+
+Przykład
+Wejście/wyjście
+Podaj liczbę wierszy oraz liczbę kolumn: 5 3
+***
+***
+***
+***
+***

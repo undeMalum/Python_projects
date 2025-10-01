@@ -1,0 +1,16 @@
+Napisz program, który wypisze wszystkie naturalne potęgi liczby dwa nie większe niż n.
+
+Wejście
+Jedna naturalna liczba n.
+
+Wyjście
+Kolejne potęgi liczby 2 nie większe niż n
+
+Przykład
+Wejście
+10
+Wyjście
+1
+2
+4
+8
