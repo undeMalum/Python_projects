@@ -11,7 +11,14 @@ for i in range(1, 21):
     print(i)
 
 # * iteratory - przydatne pózniej do pracy na plikach
-lista = [1, 2, 3, 4, "ogórek"]
+warzywa = ["pomidor", "sałata" "ogórek"]
 
-for i in lista:
-    print(i)
+for warzywo in warzywa:
+    print(warzywo)
+
+linie_pliku = ["Cześć", "jestem Matek"]
+for linia in linie_pliku:
+    print(linia)
+
+for _ in range(10):
+    print("Dzień Dobry")
