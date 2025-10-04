@@ -1,0 +1,33 @@
+Wypisz liczby od 1 do n zgodnie z zasadami:
+
+    Jeśli liczba jest podzielna przez 3, wypisz "Ping".
+
+    Jeśli jest podzielna przez 5, wypisz "Pong".
+
+    Jeśli przez oba, wypisz "PingPong".
+
+    Jeśli liczba zawiera cyfrę 3, również dodaj "Ping".
+
+    Jeśli zawiera cyfrę 5, również dodaj "Pong".
+
+Przykład dla n = 20:
+1
+2
+Ping
+4
+Pong Ping
+Ping
+7
+8
+Ping
+Pong
+11
+Ping
+Ping
+14 Pong
+PingPong
+16
+17
+Ping
+19
+Pong

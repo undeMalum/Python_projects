@@ -1,0 +1,6 @@
+Liczba nazywa się samodzielnie podzielna, jeśli każda jej cyfra dzieli tę liczbę bez reszty.
+Na przykład 128 jest samodzielnie podzielna, ponieważ 1, 2 i 8 dzielą 128. Ale 120 już nie, bo zawiera 0.
+Napisz program, który wypisuje wszystkie takie liczby w zakresie od 1 do n.
+
+Przykład dla n = 50:
+1 2 3 4 5 6 7 8 9 11 12 15 22 24 33 36 44 48

@@ -1,0 +1,12 @@
+Poproś użytkownika o liczbę n. Wypisz piramidę o wysokości n, gdzie:
+
+Nieparzyste wiersze wypełnione są kolejnymi liczbami zaczynając od 1.
+
+Parzyste wiersze wypełnione są znakami "*".
+
+Przykład dla n = 5:
+1
+* *
+2 3 4
+* * * *
+5 6 7 8 9
