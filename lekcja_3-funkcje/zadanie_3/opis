@@ -1,0 +1,19 @@
+Zostałeś zatrudniony przez restaurację, aby napisać funkcje, która obliczy napiwek oraz kwotę do zapłaty dla
+danego zamówienia.
+
+Zdecydowałeś się stworzyć w tym celu funkcję z dwoma parameterami: oblicz_napiwek(kwota, procent), gdzie kwota to kwota
+jaką gość musi zapłacić za swoje zamówienie w złoty, a procent to procent jaki gość zdecydował się wybrać.
+
+Funkcja zwraca kwotę do zapłaty z napiwkiem oraz napiwek.
+
+Kod przetestuj dla trzech przykładowych gości: Ani, Marka i Piotrka.
+
+Wejście:
+Ania: 54 20
+Marek: 136 10
+Piotrek: 98 15
+
+Wyjście:
+Ania zapłaciła 64.8 zł, w tym 10.8 zł napiwku.
+Marek zapłacił 149.6 zł, w tym 13.6 zł napiwku.
+Piotrek zapłacił 112.7 zł, w tym 14.7zł napiwku.

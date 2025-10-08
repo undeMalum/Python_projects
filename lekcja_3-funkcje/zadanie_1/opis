@@ -1,0 +1,3 @@
+Napisz funkcje, która wita użytkownika.
+
+Funkcja powitaj(imię) jako wejście bierze imię użytkownika i zwraca powitanie w formacie "Witaj Marek!"

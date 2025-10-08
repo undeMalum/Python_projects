@@ -1,0 +1,3 @@
+Napisz własną interpretację funkcji min, max i mean.
+
+Twoje funkcje my_min(), my_max(), my_mean() jako wejście biorą listę liczb, a zwracają pojedyńczą wartość.
