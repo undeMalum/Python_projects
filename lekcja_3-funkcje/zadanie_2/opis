@@ -1,3 +1,5 @@
 Napisz własną interpretację funkcji min, max i mean.
 
 Twoje funkcje my_min(), my_max(), my_mean() jako wejście biorą listę liczb, a zwracają pojedyńczą wartość.
+
+[90, 51, 83, 39, 59, 62, 45, 75, 99, 69, 90, 80, 13, 32, 28, 34, 18, 43, 88, 88]
