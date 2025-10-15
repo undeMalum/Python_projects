@@ -1,0 +1,12 @@
+Napisz funkcję, która oblicza sumę wszystkich liczb w zagnieżdżonej liście.
+
+
+Wejście:
+
+print(nested_sum([1, [2, [3, 4]], 5]))
+print(nested_sum([[10, 20], [30, [40, 50]]]))
+
+Wyjście:
+
+15
+150

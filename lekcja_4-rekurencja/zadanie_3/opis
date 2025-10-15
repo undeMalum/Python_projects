@@ -1,0 +1,10 @@
+Napisz funkcję obliczającą silnię rekurencyjnie:
+`factorial(5)` = 5 × 4 × 3 × 2 × 1 = 120
+
+Wejście:
+
+print(factorial(5))
+
+Wyjście:
+
+120

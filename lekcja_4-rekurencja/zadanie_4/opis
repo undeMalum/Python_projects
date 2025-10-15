@@ -1,0 +1,12 @@
+Napisz funkcję, która odwraca listę przy pomocy rekurencji (bez pętli ani slicing).
+
+
+Wejście:
+
+print(reverse_list([1, 2, 3, 4]))
+print(reverse_list(["a", "b", "c"]))
+
+Wyjście:
+
+[4, 3, 2, 1]
+['c', 'b', 'a']

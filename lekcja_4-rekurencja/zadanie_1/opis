@@ -1,0 +1,14 @@
+Napisz funkcję, która wypisuje liczby od `n` w dół do 1, używając rekurencji.
+
+
+Wejście:
+
+countdown(5)
+
+Wyjście:
+
+5
+4
+3
+2
+1
