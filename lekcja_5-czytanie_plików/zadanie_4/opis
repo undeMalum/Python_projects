@@ -1,0 +1,6 @@
+Policz ilość wystąpień słowa "hello".
+
+Wejście: plik dane.txt
+
+Wyjście:
+Ilość wystąpień słowa "hello": 3.
